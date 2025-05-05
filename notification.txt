@@ -1,1 +1,1 @@
-Server will de down on Wednesday to database updates and upgrades
+Server will be down on Wednesday for database updates and upgrades
